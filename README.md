@@ -78,6 +78,8 @@ IT系企業の新人研修用サンプルコードの内容について、その
 #### 例外処理
 例外処理の基本的な扱いについて学習を終えた後の実習用課題です。
 
+- [EDU. Mosnter Data Viewer Exception Practice（ポケモンデータビューワーでの例外処理）](https://gitlab.com/it_education/edu.-monster-data-viewer-exception-practice)
+
 #### 入出力
 ファイルの読み書きについて基本的な学習を終えたあとの実習用課題です。
 
