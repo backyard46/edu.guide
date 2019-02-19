@@ -22,7 +22,7 @@ IT系企業の新人研修用サンプルコードの内容について、その
 ### B121: プログラミングの基礎(1)
 
 #### 実習環境構築と基本的な用法説明
-この実習では、Visual STudioのインストールや、基本的な使い方について学びます（2019年2月時点で特に教材なし）。
+この実習では、Visual Studioのインストールや、基本的な使い方について学びます（2019年2月時点で特に教材なし）。
 
 #### データ型と基本的な演算処理
 
@@ -30,7 +30,13 @@ IT系企業の新人研修用サンプルコードの内容について、その
 条件分岐について基礎的な学習を終えたあとの実習用課題です。
 
 - [EDU. Trash Day Check（ゴミの日チェックプログラム）](https://gitlab.com/it_education/edu.-trash-day-check)
+  - 課題1: ゴミの日通知プログラム
+  - 課題2: ゴミの日通知プログラム（強制通知版）
+  - 課題3: 変則的なゴミの日への対応
 - [EDU. Score Evaluation（点数評価プログラム）](https://gitlab.com/it_education/edu.-score-evaluation)
+  - 課題1: 入力されたスコアの評価
+  - 課題2: Enterキーが押された時にも評価する
+  - 課題3: エラー回避策の実装（対応方法検索含む）
 
 #### 繰り返し
 
@@ -47,22 +53,42 @@ IT系企業の新人研修用サンプルコードの内容について、その
   - 課題7: 引数有りコンストラクターの作成
 
 #### 継承
+継承の基本的な使い方についての学習を終えた後の実習用課題です。
+
+- [EDU. Monster Creator and Battle（モンスター対戦シミュレーター）](https://gitlab.com/it_education/edu.-monster-creator-and-battle)
 
 #### インターフェース
 
 #### 例外処理
 
 #### 入出力
+ファイルの読み書きについて基本的な学習を終えたあとの実習用課題です。
+
+- [EDU. CSV File Read Sample（CSVファイルの読み込み）](https://gitlab.com/it_education/edu.-csv-file-read-sample)
+- [EDU. CSV File Read Sample EX（区切り文字指定CSVファイル読み込み、追加課題）](https://gitlab.com/it_education/edu.-csv-file-read-sample-ex)
+- [EDU. Specify File Type（ファイル形式識別）](https://gitlab.com/it_education/edu.-specify-file-type)
 
 
 ---
 ### B241: セキュリティ基礎
 
 #### 不正アクセス
+パスワード入力をソフトウェアで突破するサンプルを完成させる実習課題です。ツールさえそろえば、4桁数値の暗証番号がどれくらいで突破できるかを体感します。
+
+- [EDU. Bruteforce Attacker Sample（ブルートフォース攻撃）](https://gitlab.com/it_education/edu.-bruteforce-attacker-sample)
 
 #### ウィルス
+簡単なマクロウィルスの例として、PowerPointファイルを開くとメッセージが表示されるサンプルを作り、その容易性と、Microsoft Office側の対応について体験します。
+
+- サンプル作成中
 
 #### セキュアプログラミング
+データベースからデータを取得するプログラムの検索条件に不正な文字列を入れることで、SQLインジェクションを起こしてデータの改竄が可能であることを体験します。
+
+- [EDU. Monster Data Viewer（ポケモンデータ閲覧プログラム）](https://gitlab.com/it_education/edu.-monster-data-viewer)
 
 #### 暗号技術、署名、PKI、セキュリティプロトコル
+ハッシュ処理を応用した電子署名の作成ツールを使い、改竄有無の確認を体験します。
+
+- [EDU. Digital Sign（電子署名作成プログラム）](https://gitlab.com/it_education/edu.-digital-sign)
 
