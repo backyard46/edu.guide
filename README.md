@@ -79,6 +79,11 @@ IT系企業の新人研修用サンプルコードの内容について、その
 例外処理の基本的な扱いについて学習を終えた後の実習用課題です。
 
 - [EDU. Mosnter Data Viewer Exception Practice（ポケモンデータビューワーでの例外処理）](https://gitlab.com/it_education/edu.-monster-data-viewer-exception-practice)
+  - 課題1: プログラムを動かす
+  - 課題2: 接続先設定機能追加
+  - 課題3: データ取得時の例外処理追加
+  - 課題4: 設定情報の保存
+  - 課題5: 設定情報保存場所確認
 
 #### 入出力
 ファイルの読み書きについて基本的な学習を終えたあとの実習用課題です。
