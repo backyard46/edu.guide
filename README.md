@@ -93,7 +93,11 @@ IT系企業の新人研修用サンプルコードの内容について、その
 ファイルの読み書きについて基本的な学習を終えたあとの実習用課題です。
 
 - [EDU. CSV File Read Sample（CSVファイルの読み込み）](https://gitlab.com/it_education/edu.-csv-file-read-sample)
-- [EDU. CSV File Read Sample EX（区切り文字指定CSVファイル読み込み、追加課題）](https://gitlab.com/it_education/edu.-csv-file-read-sample-ex)
+  - 課題1: プログラム実行と処理の把握
+  - 課題2: ファイル名の選択
+  - 課題3: SJISファイルの読み込み
+  - 課題4: カンマ区切り数字の読み込み
+  - 課題5: ファイル内容の編集と保存（オプション課題）
 - [EDU. Specify File Type（ファイル形式識別）](https://gitlab.com/it_education/edu.-specify-file-type)
 
 
