@@ -69,6 +69,10 @@ IT系企業の新人研修用サンプルコードの内容について、その
 #### 継承
 継承の基本的な使い方についての学習を終えた後の実習用課題です。
 
+- [EDU. Control Inherit Sample（標準部品の改造）](https://gitlab.com/it_education/edu.-control-inherit-sample)
+  - 課題1: 既存の部品を継承した独自部品を作る
+  - 課題2: DLL作成と配布
+  - 課題3: DLLの変更と再配布
 - [EDU. Monster Creator and Battle（モンスター対戦シミュレーター）](https://gitlab.com/it_education/edu.-monster-creator-and-battle)
 
 #### インターフェース
