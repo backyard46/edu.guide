@@ -26,7 +26,7 @@ IT系企業の新人研修用サンプルコードの内容について、その
 
 #### データ型と基本的な演算処理
 
-- サンプルプログラム作成中
+- [EDU. Arithmetic Calc（四則演算プログラム）](https://gitlab.com/it_education/edu.-arithmetic-calc)
 
 #### 条件分岐
 条件分岐について基礎的な学習を終えたあとの実習用課題です。
