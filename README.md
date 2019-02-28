@@ -31,6 +31,8 @@ IT系企業の新人研修用サンプルコードの内容について、その
   - 課題2: 課題1: 四則演算（小数）
   - 課題3: 数値以外が入力された場合の対処（オプション課題）
 - [EDU. Cast and Convert（キャストとParseによる変換）](https://gitlab.com/it_education/edu.-cast-and-convert)
+  - 課題1: doubleをintにキャストする
+  - 課題2: 小数をintにParseする
 
 #### 条件分岐
 条件分岐について基礎的な学習を終えたあとの実習用課題です。
