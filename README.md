@@ -34,6 +34,7 @@ IT系企業の新人研修用サンプルコードの内容について、その
   - 課題1: doubleをintにキャストする
   - 課題2: 小数をintにParseする
 - [EDU. Join String And Value（文字と数字の結合）](https://gitlab.com/it_education/edu.-join-string-and-value)
+  - 課題1: 文字と数字の加算
 
 #### 条件分岐
 条件分岐について基礎的な学習を終えたあとの実習用課題です。
