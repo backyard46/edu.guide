@@ -72,7 +72,10 @@ IT系企業の新人研修用サンプルコードの内容について、その
 #### 補足: フォーム間情報連携
 ここでは、この後の課題等で発生する可能性があるフォームクラス間での情報連携についてサンプルコードを例示、学びます。
 
-- [EDU. Transfer data between forms（フォーム間情報連携サンプル）](https://gitlab.com/it_education/edu.-transfer-data-between-forms)
+- [EDU. Transfer data between forms（フォーム間情報連携サンプル）](https://gitlab.com/it_education/edu.-transfer-data-between-forms)  
+  - 課題1: 都道府県選択入力欄画面の作成
+  - 課題2: 都道府県、市区町村選択機能の作成
+  - 課題3: 親フォームの選択状態を子フォームに引きつぐ
 
 #### 継承
 継承の基本的な使い方についての学習を終えた後の実習用課題です。
